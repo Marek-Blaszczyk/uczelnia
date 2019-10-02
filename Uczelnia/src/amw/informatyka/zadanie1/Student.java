@@ -6,7 +6,7 @@ package amw.informatyka.zadanie1;
 //  @ Project : Untitled
 //  @ File Name : Student.java
 //  @ Date : 2017-12-22
-//  @ Author : 
+//  @ Author : ?
 //
 //
 
